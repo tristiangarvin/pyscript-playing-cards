@@ -1,4 +1,4 @@
 # pyscript-playing-cards
-Basic web-app using Pyscript and HTML/CSS
+Basic web-app testing Pyscript functionality.
 
 https://pyscript-cards.netlify.app/
